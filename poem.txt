@@ -1,3 +1,5 @@
 thr rainbow
 purple
 pink
+green
+vibgyor
